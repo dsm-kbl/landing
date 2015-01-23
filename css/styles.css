@@ -14,6 +14,18 @@ body{
 	margin-bottom: 15px;
 }
 
+footer{
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding: 20px;
+}
+
+ul.unstyled {
+	list-style: none;
+	padding: 0;
+}
+
 /*#myCarousel .item{
 	height: 400px;
 }*/
